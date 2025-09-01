@@ -1,8 +1,3 @@
-//Harsh kumar
-//24070123146
-//B3
-//Parameterized Constructor
-
 #include<iostream>
 using namespace std;
 class Product{
@@ -33,4 +28,5 @@ Product ID: 146
 Name: IQOO Z7
 Category: Smartphone
 Price: 25000
+
 */
