@@ -1,8 +1,3 @@
-//Harsh kumar
-//24070123146
-//B3
-//Destructor
-
 #include<iostream>
 using namespace std;
 int count=0;
@@ -41,4 +36,5 @@ No. of object destroyed: 3
 No. of object destroyed: 2
 No. of object destroyed: 1
 No. of object destroyed: 0
+
 */
