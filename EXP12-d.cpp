@@ -1,8 +1,3 @@
-//Harsh kumar
-//24070123146
-//B3
-//Copy Constructor
-
 #include<iostream>
 #include<string.h>
 using namespace std;
@@ -48,4 +43,5 @@ manjeet.display();
 /* output:
 146	Harsh	300000
 146	Harsh	300000
+
 */
