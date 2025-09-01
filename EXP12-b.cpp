@@ -1,8 +1,3 @@
-//Harsh kumar
-//24070123146
-//B3
-//Constructor outside class
-
 #include<iostream>
 using namespace std;
 class Car
@@ -48,4 +43,5 @@ Enter the mileage :
 Car Details are :
 14000000
 audi
+
 12*/
